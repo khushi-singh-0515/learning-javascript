@@ -21,11 +21,11 @@
 
     
 // }
-// let x=2
-// while(x<=100){
-//     console.log(x)
+let x=2
+while(x<=100){
+    console.log(x)
     
-// }
+}
 
 // let a=5;
 // do{
@@ -42,4 +42,5 @@
 // price :50}
 // console.log(`this is ${obj.pen} and pen is only ${obj.price}`)
 
-
+// let marks =[67,45,56,34,67]
+// console.log(marks);
