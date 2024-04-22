@@ -142,7 +142,8 @@
 // let x=cars[1];
 
 //  console.log(x)
-
-
+// const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+// const citrus = fruits.slice(1, 3);
+// console.log(citrus)
 
 
