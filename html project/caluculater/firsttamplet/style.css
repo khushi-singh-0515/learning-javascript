@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+}
+
+body {
+max-width: 600px;
+    margin: auto;
+}
+
+#khushi {
+    display: flex;
+    background-color: #DEA500;
+    text-align: center;
+    align-items: center;
+    color: white;
+    justify-content: center;
+
+
+}
+
+#khushi>div>img {
+    margin: 10px;
+    border-radius: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+#khushi>div:nth-child(2) {
+    text-align: left;
+
+}
+
+#khushi>div:nth-child(2)>h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+#khushi>div:nth-child(2)>p {
+    font-size: 10px;
+
+}
+
+h4 {
+    margin: 0;
+
+}
+
+#banner {
+    height: 200px;
+
+}
+
+#banner>img {
+    max-width: 600px;
+    width: 100%;
+
+}
+
+#rohan>p {
+    margin: 20px 0px;
+    margin-left: 15px;
+
+}
+
+#rohan>h1 {
+    margin: 6px 0px;
+    margin-left: 15px;
+
+}
+
+#rohan>div {
+    border: 0.5px solid rgba(128, 128, 128, 0.332);
+    border-radius: 15px;
+    margin: 10px;
+    padding: 0px;
+}
+
+#rohan>div>div {
+    display: flex;
+    align-items: center;
+
+
+}
+
+#rohan>div>div>div>img {
+    border-radius: 15px;
+    margin-right: 10px;
+    margin: 15px;
+
+}
+
+#rohan>div>div>div>div {
+    margin: 15px;
+    font-size: 15px;
+
+
+}
+
+#rohan>div>div>div>div:nth-child(2) {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.about {
+    font-size: 15px;
+    margin: 10px 0;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.jaipur {
+    font-size: 18px;
+    margin: 15px;
+}
+
+#pagalu {
+    border-radius: 0 0 15px;
+    background-color: rgba(255, 192, 203, 0.36);
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#pagalu>div>img {
+    height: 70px;
+    width: 70px;
+}
+
+#chudale {
+    font-weight: bolder;
+
+}
+
+#mota {
+    font-size: 13px;
+}
+
+#tati p {
+    margin-top: 50px;
+    text-align: center;
+    font-size:20px ;
+
+}
+#tati>div:nth-child(2){
+display: flex;
+justify-content: center;
+    
+   }
+
+#tati>div>button{
+
+ width: 220px;
+    height: 50px;
+margin: 40px 0;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color:#F6404F;
+    color:blanchedalmond;
+    border: none;
+ 
+}
+#moto2 h5{
+    text-align: center;
+
+}
+#moto2>div:nth-child(2){
+display: flex;
+justify-content: center;
+}
+
+.ruhi{ 
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+ 
+    width: 150px;
+    height: 50px;
+    
+
+    
+
+}
+#lorem{
+    margin:50px 0px 5px 15px
+}
+
+
+#dolor{
+  text-align: center;
+    font-size:15px ;
+    margin-top: 0px;
+}
+#dolor a{
+    text-underline-position: above;
+    color: #F6404F;
+ }
+ .elit{
+    font-size:13px ;
+    margin:0 15px;
+    
+ }
+ .elit>a{
+    text-decoration: underline rgb(95, 173, 204);
+    color: rgb(65, 149, 182);
+ }
+ #moto2 h1{
+    font-size: 17px;
+    font-weight:lighter;
+ }
+ #you{
+  text-align: center;
+   margin:15px;
+  
+   font-size: 10px;
+ }
+ #you a{
+    text-decoration-line: underline;
+    color: #F6404F;
+ }
+ #you span{
+    text-decoration-line: underline;
+    color: #F6404F;
+ }
+
+ #type{
+    display: flex;
+    justify-content: center;
+ }
+    
+   #type img{
+  
+   margin: 10px;
+   border-radius: 10px;
+   padding: autopx;
+   align-items: center;
+   display:inline-flex ;
+  
+   text-align: center;
+   align-items: center;
+  
+   justify-content: center;
+ 
+   
+   
+ 
+   }
+   #dolor>span{
+    color:#F6404F;
+   }
+
+
+
+
+
+
+
+#akash {
+
+    background-color: aliceblue;
+    width: 550px;
+    border: grey solid;
+    border-radius: 4px;
+
+
+}
